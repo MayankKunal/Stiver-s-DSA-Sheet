@@ -1,0 +1,1 @@
+Sum of edges of minimum spanning tree is  4
